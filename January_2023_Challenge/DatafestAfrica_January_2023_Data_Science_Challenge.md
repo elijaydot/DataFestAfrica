@@ -17,8 +17,6 @@ This challenge uses a database with 8 tables and the following relation schema:
 
 The dataset for this challenge can be accessed via the following link: https://www.w3schools.com/SQL/TRYSQL.ASP?FILENAME=TRYSQL_SELECT_ALL 
 
-Please use SQL queries to answer the following questions. Paste your queries along with your final numerical answers below.
-
 ## Questions
 
 1. How many orders were shipped by Speedy Express in total? 
